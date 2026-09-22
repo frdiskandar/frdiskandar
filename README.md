@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-Full-Stack Developer who loves building scalable systems and clean architectures. Working with **React, Next.js, Golang, and Node.js** — experienced in Docker, Kubernetes, REST APIs, and databases. Open to collaboration and new challenges.
+Software Enginer who loves building scalable systems and clean architectures. Working with **React, Next.js, Golang, and Node.js** — experienced in Docker, Kubernetes, REST APIs, and OLTP/OLAP databases. Open to collaboration and new challenges.
 
 📍 Bogor, Indonesia
 
